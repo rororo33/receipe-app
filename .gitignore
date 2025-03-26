@@ -1,0 +1,28 @@
+# Android 관련
+.gradle/
+.idea/
+*.iml
+build/
+local.properties
+
+# 로그 파일
+*.log
+
+# 임시 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 환경 변수 파일 
+.env
+
+# 백업 파일
+*.bak
+
+
+# Java & Spring Boot 관련
+/target/
+/out/
+*.class
+*.jar
+*.war
+*.log
